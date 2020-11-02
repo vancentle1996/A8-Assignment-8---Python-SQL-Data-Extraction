@@ -35,7 +35,8 @@ input_json = """
         "name": "name 3"
     }
 ]"""
-# How to use this program:
+# Exercise: 
+# Use json-reader.py to read json files from the 'northwind' SQL database:
 # Step 1: Use XAMPP to export files in JSON format from the 'northwind' database
 # Step 2: Copy the downloaded files into a 'DataFiles' folder in your project
 # Step 3: get the path to the DataFiles folder into your clipboard
