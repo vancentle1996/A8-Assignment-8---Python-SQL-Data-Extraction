@@ -44,9 +44,9 @@ input_json = """
 # Step 4: Initialize the 'fileName' variable with the filename.
 # Step 5: Run the program using VS Code 'Run File in Terminal' (right click on filename).
 
-fileName= 'employees.json'
+fileName= 'northwind.json'
 
-folderPath = '/Users/tnewman/Documents/GitHub/RWU/Comsc230/Examples/Python/DataFiles/'
+folderPath = '/Users/Josh/Documents/GitHub/RWU/Comsc230/Assignments/Comsc230-python-sandbox/python_sandbox_finished/DataFiles'
 filePath = folderPath+'/'+fileName
 
 ####  Open and read the raw data from the JSON file
